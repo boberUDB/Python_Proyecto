@@ -1,0 +1,14 @@
+# Entornos virtuales y dependencias
+venv/
+.env
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs temporales
+*.log
+
+# Editores
+.vscode/
+.idea/
